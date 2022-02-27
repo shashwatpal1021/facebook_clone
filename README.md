@@ -6,7 +6,7 @@ https://shashwatpal1021.github.io/facebook_clone/
 
 
 ## Table of Content
-  * [Link](#https://shashwatpal1021.github.io/facebook_clone/)
+  * [Link](#Link)
   * [Overview](#overview)
   * [Deployement on github](#deployement-on-heroku)
 
