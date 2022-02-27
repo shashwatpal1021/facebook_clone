@@ -5,10 +5,9 @@
 https://shashwatpal1021.github.io/facebook_clone/
 
 
-# Thyroid-Prediction
-
 ## Table of Content
-  * [Link](#link)
+  * [Link](#https://shashwatpal1021.github.io/facebook_clone/
+)
   * [Overview](#overview)
   * [Installation](#installation)
   * [Directory Tree](#directory-tree)
